@@ -20,3 +20,24 @@
 13. Decode the string
 14. Minimum Size Subarray Sum
 15. Array Pair Sum Divisibility Problem
+
+
+## Day 6-10 :
+### Company Name : Amazon
+#### Questions :
+
+16. Calculating Maximum Profit (Multiple Ladders Question)
+17. Longest Mountain
+18. IPL 2021 - Match Day 2 (similar to maximum in subarray)
+19. Brackets in Matrix Chain Multiplication
+20. Phone directory (Question similar to this based on Amazon Pay as a service)
+21. Maximum of all subarrays of size k
+22. First non-repeating character in a stream
+23. Count ways to N'th Stair(Order does not matter)
+24. Which among them forms a perfect Sudoku Pattern ? 
+25. Nuts and Bolts Problem  
+26. Tree Serialization and Deserialization  
+27. Column name from a given column number  
+28. Rotten Oranges -Multiple Repetitions  
+29. Tree Burning  
+30. Delete N nodes after M nodes of a linked list 
