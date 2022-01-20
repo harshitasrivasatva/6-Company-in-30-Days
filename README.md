@@ -41,3 +41,25 @@
 28. Rotten Oranges -Multiple Repetitions  
 29. Tree Burning  
 30. Delete N nodes after M nodes of a linked list 
+
+## Day 11-15 :
+### Company Name : Microsoft
+#### Questions :
+
+31. Divide an array into two sets S1 and S2 such that the absolute difference between their sums is minimum and find the minimum difference
+32. Prerequisite Tasks (Similar to Question of Modern Park)
+33. Rotate by 90 degree
+34. Given a matrix of size r*c. Traverse the matrix in spiral form. 
+35. Stock span problem
+36. Possible Words From Phone Digits
+37. Unit Area of largest region of 1's
+38. Connect Nodes at Same Level
+39. Count Number of SubTrees having given Sum
+40. Stickler Thief (Similar to Alibaba and Thiefes Question)
+41. Generate and print all binary numbers with decimal values from 1 to N. 
+42. Find all the unique quadruple from the given array that sums up to the given number.
+43. Given a Graph of V vertices and E edges and another edge(c - d), the task is to find if the given edge is a Bridge. i.e., removing the edge disconnects the graph.
+44. Given a destination D , find the minimum number of steps required to reach that destination.
+45. Find the order of characters in the alien language.
+
+
