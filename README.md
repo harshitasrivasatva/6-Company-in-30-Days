@@ -63,3 +63,24 @@
 45. Find the order of characters in the alien language.
 
 
+## Day 45-60 :
+### Company Name : Adobe
+#### Questions :
+
+46. Find a continuous sub-array which adds to a given number S.
+47. Find the length of the Longest Arithmetic Progression (LLAP) in it.
+48. Number of distinct Words with k maximum contiguous vowels(Joe and his Dictionary Problem)
+49. Partition Equal Subset Sum
+50. Total number of ways n can be expressed as sum of xth power of unique natural numbers
+51. Generate all combinations of well-formed(balanced) parentheses.
+52. Pots of Gold Game (Similar to Covid and Beds problem)
+53. ATOI
+54. Smallest palindromic number greater than N using the same set of digits as in N.
+55. Elections
+56. String Amendment
+57. Leaders in Array
+58. Minimum operations to convert array A to B
+59. Smallest range in K lists 
+60. Given two library versions of an executable: for example, “10.1.1.3” and “10.1.1.9” or “10” and “10.1”. Find out which one is more recent?   
+    Strings can be empty also.
+
