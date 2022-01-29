@@ -63,7 +63,7 @@
 45. Find the order of characters in the alien language.
 
 
-## Day 45-60 :
+## Day 16-20 :
 ### Company Name : Adobe
 #### Questions :
 
@@ -84,3 +84,22 @@
 60. Given two library versions of an executable: for example, “10.1.1.3” and “10.1.1.9” or “10” and “10.1”. Find out which one is more recent?   
     Strings can be empty also.
 
+## Day 21-25 :
+### Company Name : Intuit
+#### Questions :
+
+61. https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/
+62. https://practice.geeksforgeeks.org/problems/word-search/1/
+63. https://practice.geeksforgeeks.org/problems/find-the-missing-no-in-string/1/
+64. https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1
+65. https://leetcode.com/problems/split-array-largest-sum/
+66. https://leetcode.com/problems/find-in-mountain-array
+67. https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
+68. https://leetcode.com/problems/number-of-boomerangs/
+69. https://leetcode.com/problems/pacific-atlantic-water-flow/
+70. https://leetcode.com/problems/number-of-provinces/
+71. https://leetcode.com/problems/construct-quad-tree/
+72. https://leetcode.com/problems/course-schedule-ii/
+73. https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid
+74. https://leetcode.com/problems/as-far-from-land-as-possible/
+75. https://leetcode.com/problems/koko-eating-bananas/7
