@@ -103,3 +103,24 @@
 73. https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid
 74. https://leetcode.com/problems/as-far-from-land-as-possible/
 75. https://leetcode.com/problems/koko-eating-bananas/7
+
+
+## Day 26-30 :
+### Company Name : Walmart
+#### Questions :
+
+76. Path with Maximum Probability
+77. https://leetcode.com/problems/stone-game
+78. https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color (Similar to Card Game Question)
+79. https://practice.geeksforgeeks.org/problems/number-of-unique-paths5339/1/
+80. https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1/
+81. https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1/(Similar to Jennifer and Numbers Question)
+82. https://practice.geeksforgeeks.org/problems/sorted-subsequence-of-size-3/1/
+83. https://practice.geeksforgeeks.org/problems/maximum-height-tree4803/1/
+84. https://leetcode.com/problems/guess-number-higher-or-lower-ii
+85. https://leetcode.com/problems/generate-random-point-in-a-circle
+86. Maximum Performance of a Team (Dashboard Question Similar)
+87. https://leetcode.com/problems/find-array-given-subset-sums
+88. Find the Kth Largest Integer in the Array (Cows and Farm Question)
+89. https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1/
+90. https://leetcode.com/problems/divide-two-integers/
